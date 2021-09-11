@@ -41,3 +41,4 @@ gridsome create my-blog https://github.com/jammeryhq/gridsome-starter-liebling
 
 This starter is based on [Ghost Liebling](https://github.com/eddiesigner/liebling).
 # blog
+# blog
